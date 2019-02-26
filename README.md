@@ -1,0 +1,2 @@
+# EraTerminal
+A Game Terminal.
